@@ -1,0 +1,29 @@
+Q=1 What are the differences between Continuous Integration, Continuous Delivery, and Continuous Deployment?
+
+Q=2 What is a CI/CD pipeline?
+
+Q=3 Name the three different types of pipelines in Jenkins?
+
+Q=4 Name some of the useful plugins in Jenkins?
+
+Q=5 How can you create a backup and copy files in Jenkins?
+
+Q6= Name some more continuous Integration tools other than Jenkins?
+
+Q7= Assume that you have a pipeline. The first job that you performed was successful, but the second one failed.  What would you do now?
+
+Q8= What is Jenkinsfile?
+
+Q9=  What is the process to integrate Git with Jenkins?
+
+Q10=  Explain Kubernetes, and how can you integrate Jenkins with Kubernetes?
+
+Q11=   What are some of the default environmental variables in Jenkins?
+
+Q12=  Let's say there is a broken build in the Jenkins project, then what can be done?
+
+Q13= What is the process of making a Multibranch Pipeline in Jenkins?
+
+Q14= Explain a backup plugin and its uses.
+
+Q15= What are the three security mechanisms Jenkins uses to authenticate users? 
